@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f4f4;
+}
+.section {
+  height: 100dvh;
+  padding: 20px;
+}
+.section:nth-child(1) {
+  background-color: #f0d3ff;
+}
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
